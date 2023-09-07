@@ -1,6 +1,12 @@
 ### Hi there 👋 
-I lokesh  done software development iin wipro and intereset in playing cricket 🏏
-
+I lokesh  done software development in wipro and intereset in playing cricket 🏏
+### Hobbies
+Playing cricket
+reading Books
+I'm cuurently learning java and web development
+You can reach me through Instagram Lokeshkallepalli
+pronoun:🚹
+fun fact: I have good sense of humour🤗
 <!--
 **lok25esh/lok25esh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
